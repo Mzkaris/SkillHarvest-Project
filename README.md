@@ -1,2 +1,10 @@
-# SkillHarvest-Project
-This repository is an archive for my projects at Skill Harvest
+# Country
+## city
+### region
+
+- Lagos
+- abuja
+
+  1. osun
+  2. ogun
+  3. rivers
