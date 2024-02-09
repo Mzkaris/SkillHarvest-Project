@@ -1,12 +1,21 @@
 # Country
-## city
-### region
+## City
+### Region
+
 
 - Lagos
-- abuja
+- Abuja
+- Yola
 
   1. osun
   2. ogun
   3. rivers
      
 ![A drycleaning design](AA.png "Clean")
+
+# <p align="center"/> RCCG PARISH </p>
+
+# <p align="right"/> PROVICE </p>
+
+
+# <p align="left"/> AREA </p>
