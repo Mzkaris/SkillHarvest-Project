@@ -20,7 +20,7 @@
 # <p align="left"/> AREA </p>
 
 # <div align="center">
-<ing src="AA.png">
+<img src="AA.png">
 </div>
 
 
