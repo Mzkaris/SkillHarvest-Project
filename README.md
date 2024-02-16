@@ -23,4 +23,14 @@
 <img src="AA.png">
 </div>
 
+|Names|Age|Country|Gender|
+|-----|---|-------|------|
+|Mary|25|Nigeria|Female|
+|Kunle|30|Turkey|Male|
 
+
+```
+def multiply(a,b,c):
+    d=a*b*c
+    return d
+```
